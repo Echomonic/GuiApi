@@ -1,0 +1,6 @@
+name: GuiApi
+version: ${project.version}
+main: dev.echo.gui.GuiApi
+prefix: GUIAPI
+authors: [ Echo, Echoed ]
+description: An api for creating guis and is very easy to learn cause it's made for everybody :D
